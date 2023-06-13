@@ -2,8 +2,8 @@
 ### Desenvolvedor Fullstack!
 
  [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AlefeSk8&show_icons=true&theme=tokyonight)](https://github.com/AlefeSk8/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlefeSk8&layout=compact&theme=tokyonight)](https://github.com/AlefeSk8/github-readme-stats)
-
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlefeSk8&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/AlefeSk8/github-readme-stats)
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Álefe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Álefe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -21,6 +21,12 @@
  <a href="https://alefesk8.github.io" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/alefe-kouichi-araujo-mikawa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/alefe_sk8/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "mailto:alefe_sk8@hotmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+<br>
+<a href="https://github.com/AlefeSk8/03-DT-Money-React.js">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlefeSk8&repo=03-DT-Money-React.js" />
+</a>
+<a href="https://github.com/AlefeSk8/02-Ignite-Timer-React.js">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlefeSk8&repo=02-Ignite-Timer-React.js" />
+</a>
