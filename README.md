@@ -25,11 +25,9 @@
  <a href="https://www.instagram.com/alefe_sk8/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:alefe_sk8@hotmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-<br>
 
 ![snake gif](https://github.com/AlefeSk8/AlefeSk8/blob/output/github-contribution-grid-snake.svg)
 
-<br>
 <a href="https://github.com/AlefeSk8/03-DT-Money-React.js">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlefeSk8&repo=03-DT-Money-React.js" />
 </a>
