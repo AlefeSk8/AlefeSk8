@@ -28,9 +28,9 @@
 
 ![snake gif](https://github.com/AlefeSk8/AlefeSk8/blob/output/github-contribution-grid-snake.svg)
 
-<a href="https://github.com/AlefeSk8/03-DT-Money-React.js">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlefeSk8&repo=03-DT-Money-React.js" />
+<a href="https://github.com/AlefeSk8/Spotify-Clone-Next.js">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlefeSk8&theme=tokyonight&repo=Spotify-Clone-Next.js" />
 </a>
-<a href="https://github.com/AlefeSk8/02-Ignite-Timer-React.js">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlefeSk8&repo=02-Ignite-Timer-React.js" />
+<a href="https://github.com/AlefeSk8/03-DT-Money-React.js">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlefeSk8&theme=tokyonight&repo=03-DT-Money-React.js" />
 </a>
