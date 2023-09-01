@@ -3,7 +3,7 @@
 
 <div style="display: inline_block">
  <img height=180em style="display: flex, flex: 1" alt="Alefe's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlefeSk8&show_icons=true&theme=tokyonight" />
- <img height=180em width=300px alt="Alefe's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlefeSk8&layout=compact&langs_count=8&theme=tokyonight" />
+ <img height=180em width=300px alt="Alefe's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlefeSk8&layout=compact&langs_count=8&theme=tokyonight&hide=ShaderLab,HLSL" />
 </div>
  
 <div style="display: inline_block"><br>
