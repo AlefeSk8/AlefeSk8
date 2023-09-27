@@ -32,8 +32,8 @@
 </div>
 
 <a href="https://github.com/AlefeSk8/Spotify-Clone-Next.js">
-  <img width=430px align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AlefeSk8&theme=tokyonight&repo=Spotify-Clone-Next.js" />
+  <img width=375px align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AlefeSk8&theme=tokyonight&repo=Spotify-Clone-Next.js" />
 </a>
 <a href="https://github.com/AlefeSk8/MyFirstGame-Unity">
-  <img width=460px align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AlefeSk8&theme=tokyonight&repo=MyFirstGame-Unity" />
+  <img width=400px align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AlefeSk8&theme=tokyonight&repo=MyFirstGame-Unity" />
 </a>
